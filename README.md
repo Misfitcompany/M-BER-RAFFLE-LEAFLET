@@ -1,5 +1,5 @@
 # M-BER-RAFFLE
-Misfitcompany is holding an Independent artist raffle for the NFT collection "Misfit Bears" a.k.a M-Ber. Qubicbay Team and CFB Discord are not responsible for this giveaway. Do not contact them regarding this giveaway.
+Misfitcompany K.I.R | D.O.M is holding an Independent artist raffle for the NFT collection "Misfit Bears" a.k.a M-Ber. Qubicbay Team and CFB Discord are not responsible for this giveaway, please do not contact them regarding this giveaway.
 
 # ⚠️ Safety Warning
 No DMs: Misfitcompany K.I.R | D.O.M will never DM you first. If you receive a DM, it is a scam.
