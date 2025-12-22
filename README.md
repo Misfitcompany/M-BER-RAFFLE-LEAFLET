@@ -6,6 +6,8 @@ No DMs: Misfitcompany K.I.R | D.O.M will never DM you first. If you receive a DM
 
 Support: Never self-harm; please seek help if you are struggling.
 
+Wallet Warning: Misfitcompany K.I.R | D.O.M will never ask for wallet seed/phrase/file NEVER share these with anyone for any reason.
+
 # About the Collection
 This collection is dedicated to the Buddhist monk Thich Quang Duc. It represents the current spirit of Web3 and the perseverance of "Crypto Degens" through bear markets.
 
@@ -28,3 +30,5 @@ Winnings paid out by Misfitcompany K.I.R | D.O.M If your NFT is drawn in the raf
 
 # PLEASE NOTE
 Minting the trait does not guarantee a raffle win; once the raffle has started, the holders of NFTs with the trait are the wallet addresses collected for the raffle drawing.
+
+Misfitcompany K.I.R | D.O.M will never ask for wallet seed/phrase/file NEVER share these with anyone for any reason.
