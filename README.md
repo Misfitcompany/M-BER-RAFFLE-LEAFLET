@@ -58,7 +58,7 @@ Winnings paid out by Misfitcompany K.I.R | D.O.M If your NFT is drawn in the raf
 ## FAQ
 Minting the trait does not guarantee a raffle win; once the raffle has started, if they have filled out the entry form holders of NFTs with the correct "SWAPwMISFIT" trait are the wallet addresses collected for the raffle drawing.
 
-Should this display be publicly archived for participant and creator trust? Considering it for this raffle but I would like feedback if anyone is willing to share.
+Never trust an NFT raffle that does not have its details archived. This leaflet is archived so that all information is immutable.
 
 The actual end of this raffle will be announced by Misfitcompany K.I.R | D.O.M in the Den of Misfits discord server as well as the CFB discord server and on the X profile for Misfitcompany K.I.R | D.O.M
 
@@ -67,6 +67,8 @@ Misfitcompany K.I.R | D.O.M will never ask for wallet seed/phrase/file
 If you have questions regarding the raffle and do not want to join the Den of Misfits Server, you are more than welcome to reach out to the artist within the CFB and Qubic discord servers by tagging them @misfitcompany
 
 Holders of M-Bers are also granted access to the LP tracker made by Misfitcompany K.I.R | D.O.M
+
+For the people in the back : Never trust an NFT raffle that does not have its details archived. This leaflet is archived so that all information is immutable.
 
 
 # Links / Names
